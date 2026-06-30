@@ -10,25 +10,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello!
+안녕하세요! 👋
 
-<!-- Previously, I received my B.S. degree from <a href="https://www.korea.edu/">Korea University</a> in june 2024.-->
+저는 현재 한양대학교 ERICA캠퍼스 미디어학과에 재학 중인 1학년 학생입니다.
 
-My current 
-
+방송 및 영화 연출에 관심이 있으며, 단편영화부터 게임 내러티브 디자인까지 다양한 매체를 통한 스토리텔링을 탐구하고 있습니다.
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉 One paper has been accepted by EMNLP 2025 (*findings*).
-- *2025.05*: &nbsp;🎉 One paper has been accepted by ACL 2025.
+- *2026.06*: &nbsp;📝 동물원·수족관의 윤리적 문제를 다룬 학술 에세이 작성 완료
+- *2026.0X*: &nbsp;🎬 (최근 활동이나 프로젝트가 있다면 이곳에 채워주세요)
 
-# 💻 Experience
+# 🎯 관심 분야
+- 방송 및 영화 연출
+- 한국 독립영화
+- 게임 에셋 디자인
+- 베이스 기타
+
+# 💻 경력
+- *2026 – 현재*: 한양대학교 ERICA캠퍼스 미디어학과 재학
+- (동아리, 프로젝트, 인턴 경험 등이 있다면 알려주세요)
+
+# 🎖 수상 및 장학
+- (실제 수상 내역이나 장학금 정보가 있다면 알려주세요)
 - 
-
-
-# 🎖 Honors and Awards
-- *Merit-based Scholarship* — KRW 1,695,000, Fall 2022
-- *Merit-based Scholarship* — KRW 1,119,000, Fall 2018
-- *Kim Chang-hwan Foundation Scholarship* — KRW 2,500,000, Spring 2018
 
 
 
